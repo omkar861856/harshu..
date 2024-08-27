@@ -1,0 +1,15 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+#children{
+  height: 75vh;
+  display: grid;
+  place-items: center;
+}
+
+#insta-logo{
+  width: 500px;
+}
